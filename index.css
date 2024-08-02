@@ -1,0 +1,36 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("Card\ Suit\ Art\ 2.jpeg");
+    background-size: 100vh;
+    font-weight: bold;
+    font-size: x-large;
+    -webkit-text-stroke: 1px rgb(223, 221, 221);
+    color: rgb(250, 247, 247);
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1 {
+    color: rgb(16, 50, 160);
+}
+
+#message-el {
+    font-style: italic;
+    font-size: x-large;
+    
+}
+
+button {
+    color: #044766;
+    width: 150px;
+    background: rgb(197, 186, 25);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+
+
